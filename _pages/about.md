@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently a graduate student majoring in **Robotics** at the **Johns Hopkins University**. 
 I completed my undergraduate studies at **Shanghai Jiao Tong University**, majoring in Mechanical Engineering.
-Please visit my blog xchen24.com for more information.
-
 My research interest includes Surgical Robotics, SLAM, Machine Learning.
+
+Please visit my blog **xchen24.com** for more information.
 
 ## Education Experience
 * M.S. in the Johns Hopkins University, 2023
