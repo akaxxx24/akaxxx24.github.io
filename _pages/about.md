@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a graduate student majoring in **Robotics** at the **Johns Hopkins University**. 
-I completed my undergraduate studies at **Shanghai Jiao Tong University**, majoring in Mechanical Engineering.
+I completed my undergraduate studies at **Shanghai Jiao Tong University**.
 
 
 ## Education
