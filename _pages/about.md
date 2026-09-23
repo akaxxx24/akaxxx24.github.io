@@ -21,9 +21,10 @@ I completed my undergraduate studies at **Shanghai Jiao Tong University**.
 * Shanghai AI Lab
 
 ## Research Experience
-* Monocular Vision‐Based Endoscopic Sinus Navigation: A SLAM Driven Approach With CT Integration(Healthcare Technology Letters)
-* AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning(IROS)
 * Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation
+* AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning(IROS)
+* Monocular Vision‐Based Endoscopic Sinus Navigation: A SLAM Driven Approach With CT Integration(Healthcare Technology Letters)
+
 
 
 
