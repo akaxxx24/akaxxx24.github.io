@@ -21,7 +21,7 @@ I completed my undergraduate studies at **Shanghai Jiao Tong University**.
 * Shanghai AI Lab
 
 ## Research Experience
-* Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation
+* Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation(RA-L)
 * AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning(IROS)
 * Monocular Vision‐Based Endoscopic Sinus Navigation: A SLAM Driven Approach With CT Integration(Healthcare Technology Letters)
 
